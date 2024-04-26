@@ -1,4 +1,4 @@
--- Get all orders with negative total amount
+-- Return all orders with negative total amount
 select 
     order_id,
 
