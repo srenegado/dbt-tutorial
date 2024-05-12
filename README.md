@@ -55,5 +55,5 @@ This work generally followed [this medium article](https://medium.com/@tdonizeti
 
 The dbt project is based off dbt Lab's [Jaffle Shop project](https://github.com/dbt-labs/jaffle-shop).
 
-The Dockerfile and compose.yml file are based off the official files supplied by dbt Lab and Airflow, respectively.
+The `Dockerfile` and `compose.yml` file are based off the official files supplied by dbt Lab and Airflow, respectively.
 
