@@ -10,7 +10,7 @@ Some prerequisites:
 - This project uses BigQuery:
   - Setup an account through [GCP](https://cloud.google.com/free?hl=en).
   - Create a [new GCP project](https://docs.getdbt.com/guides/bigquery?step=2) and [generate BigQuery credentials](https://docs.getdbt.com/guides/bigquery?step=4).
-  - [Connect to BigQuery](https://docs.getdbt.com/guides/manual-install?step=4), but ignore creating a new 'profiles.yml' file: use the `SAMPLE-profiles.yml` file here after renaming it.
+  - [Connect to BigQuery](https://docs.getdbt.com/guides/manual-install?step=4), but ignore creating a new `profiles.yml` file: use the `SAMPLE-profiles.yml` file here after renaming it.
 
 In the `profiles.yml` file, change `GCP_PROJECT_ID` and `NAME_OF_YOUR_JSON_KEYFILE` appropriately.
 
