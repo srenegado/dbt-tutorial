@@ -1,5 +1,5 @@
 # dbt-tutorial
-This project shows how dbt can be run in Airflow with Docker containers. It does so by:
+This project shows how dbt can be run with Airflow and Docker containers. It does so by:
 - building a Docker image from the dbt project, and
 - running said image with the DockerOperator in an Airflow DAG.
 
